@@ -1,0 +1,17 @@
+{
+  "name": "tags-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "merge": "^1.2.0",
+    "node-watch": "^0.3.5",
+    "yargs": "^4.2.0"
+  }
+}
