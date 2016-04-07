@@ -2,6 +2,7 @@
     "javascript": {
         "extension": "js",
         "file": "js.tags",
-        "language": "js"
+        "language": "js",
+        "excludes": ["log", "cache", ".git"]
     }
 }
