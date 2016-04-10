@@ -1,13 +1,11 @@
 {
   "name": "tags-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "A ctags generator and watcher",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "scripts": {},
+  "author": "David Jegat <david.jegat@gmail.com>",
+  "license": "WTFPL",
   "dependencies": {
     "colors": "^1.1.2",
     "merge": "^1.2.0",

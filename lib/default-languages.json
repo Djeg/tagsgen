@@ -1,8 +1,10 @@
 {
     "javascript": {
         "extension": "js",
-        "file": "js.tags",
-        "language": "js",
-        "excludes": ["log", "cache", ".git"]
+        "file": "tags",
+        "args": [
+            "--language=js",
+            "--tag-relative"
+        ]
     }
 }
