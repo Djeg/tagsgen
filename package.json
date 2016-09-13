@@ -1,11 +1,14 @@
 {
-  "name": "tags-generator",
-  "version": "1.0.0",
+  "name": "tagsgen",
+  "version": "1.0.1",
   "description": "A ctags generator and watcher",
   "main": "index.js",
   "scripts": {},
   "author": "David Jegat <david.jegat@gmail.com>",
   "license": "WTFPL",
+  "bin": {
+      "tagsgen": "./bin/tagsgen"
+  },
   "dependencies": {
     "colors": "^1.1.2",
     "merge": "^1.2.0",
